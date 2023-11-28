@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699970472532",
+    "project_id": "pagination-9c35f",
+    "storage_bucket": "pagination-9c35f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699970472532:android:06fbf0a6f5c41947147bc1",
+        "android_client_info": {
+          "package_name": "com.example.pagination"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIV1NRemT4yGYg5k6JKv9WmNhWYhyQNA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
